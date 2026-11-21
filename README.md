@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![Rank](https://make.fun/badge/suchonamehzabin8-maker/best-stealth-game-01/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![Reward](https://make.fun/badge/suchonamehzabin8-maker/best-stealth-game-01/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/suchonamehzabin8-maker/best-stealth-game-01/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/suchonamehzabin8-maker/best-stealth-game-01/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 # The Quiet Gallery — a stealth game
 
